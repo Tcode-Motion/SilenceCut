@@ -1,0 +1,6 @@
+silencecut_out/
+uploads/
+silencecut_settings.json
+__pycache__/
+_sc_audio.wav
+_sc_words.json
